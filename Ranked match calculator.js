@@ -1,3 +1,7 @@
+// Ranked match calculator, a logic programming training challenge.
+
+// Saldo de Rankeadas é feito através do calculo (vitórias - derrotas).
+
 let jogador = "MtLessa";
 let vitorias = 99;
 let derrotas = 12;
